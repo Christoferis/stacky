@@ -74,4 +74,5 @@ Any time the shortcuts folder is modified (new shrtcut is added etc.), the cache
 
 That's why stacky is faster than anything I've seen so far.
 
+This was an effort by Christoferis to port this to WinUI3, but due to my lack of knowledge in C++ and Microsoft Libraries I instead want to rewrite it in C# using .NET MAUI
 
